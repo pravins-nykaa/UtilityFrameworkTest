@@ -13,6 +13,7 @@
 		5B6221492BEB99B500B96786 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5B6221482BEB99B500B96786 /* Base */; };
 		5B62214B2BEB99B600B96786 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B62214A2BEB99B600B96786 /* Assets.xcassets */; };
 		5B62214E2BEB99B600B96786 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5B62214D2BEB99B600B96786 /* Base */; };
+		5B6221732BEBA43400B96786 /* UtilsTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B6221722BEBA43400B96786 /* UtilsTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5B62214A2BEB99B600B96786 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5B62214D2BEB99B600B96786 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5B62214F2BEB99B600B96786 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B6221722BEBA43400B96786 /* UtilsTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UtilsTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5B62214A2BEB99B600B96786 /* Assets.xcassets */,
 				5B62214C2BEB99B600B96786 /* LaunchScreen.storyboard */,
 				5B62214F2BEB99B600B96786 /* Info.plist */,
+				5B6221722BEBA43400B96786 /* UtilsTest.swift */,
 			);
 			path = NykaaUtility;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				5B6221462BEB99B500B96786 /* ViewController.swift in Sources */,
 				5B6221422BEB99B500B96786 /* AppDelegate.swift in Sources */,
 				5B6221442BEB99B500B96786 /* SceneDelegate.swift in Sources */,
+				5B6221732BEBA43400B96786 /* UtilsTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
