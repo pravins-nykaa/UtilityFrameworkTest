@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   
   s.ios.deployment_target = '14.0'
   s.frameworks = 'UIKit', 'Foundation', 'AdSupport', 'CoreTelephony', 'SystemConfiguration', 'AppTrackingTransparency', 'StoreKit'
-  s.vendored_frameworks = 'AppsFlyerLib.xcframework'
+  s.vendored_frameworks = 'binaries/xcframework/full/AppsFlyerLib.xcframework'
   
   s.requires_arc = true
 end
