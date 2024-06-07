@@ -1,0 +1,3 @@
+[submodule "NykaaUtility/NykaaUtility/Frameworks/Internal"]
+	path = NykaaUtility/NykaaUtility/Frameworks/Internal
+	url = https://github.com/pravins-nykaa/NykaaCoreFramework.git
