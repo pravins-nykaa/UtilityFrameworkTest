@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  NykaaUtility
+//  IntegrateCoreUtility
 //
-//  Created by Pravin Sankeshwari on 08/05/24.
+//  Created by Pravin Sankeshwari on 07/06/24.
 //
 
 import UIKit
